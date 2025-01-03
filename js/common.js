@@ -6,3 +6,5 @@ let myread = "휴우";
 document.body.innerHTML += "<p>" +myread + "</p>";
 let mystudy2 = "리액트";
 document.body.innerHTML += "<h2>" +mystudy2+ "</h2>";
+let myname2 = "hyojeong";
+document.body.innerHTML += "<pre>" +myname2+ "</pre>"
